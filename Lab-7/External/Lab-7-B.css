@@ -1,0 +1,110 @@
+		*{
+			box-sizing: border-box;
+		}
+		#footer{
+			text-align: center;
+			background-color: blue;
+			color: white;
+			padding-top: 10px;
+			height: 40px;
+			font-size: 20px;
+		}
+		.Sidebar{
+			border:1px double yellow;
+			font-size: 30px;
+		}
+		.Header{
+			width: 100%;
+		}
+		.Home{
+			text-decoration: none;
+			margin-left: 10px;
+			font-size: 20px;
+		}
+		.About{
+			text-decoration:none;
+			margin-left: 20px;
+			font-size: 20px;
+		}
+		.Contact{
+			text-decoration: none;
+			margin-left: 30px;
+			font-size: 20px;
+		}
+		.Login{
+			text-decoration:none;
+			margin-left: 40px;
+			font-size: 20px;
+		}
+		.Content-body{
+			width:100%;
+			height:600px;
+			text-align:center;
+		}
+		.Left{
+			width:30%;
+			background-color: red;
+			float: left;
+		}
+		.Right{
+			width:70%;
+			float:right;
+			border:1px dotted black;
+			height: 600px;
+			font-size: 10px;
+			color: rgba(0, 0, 0, 0.8);
+			padding-top: 4px;
+		}
+		.Right-top{
+			width:100% ;
+			height:180px;
+		}
+		#ArjunBala{
+			height:200;
+			width:100;
+			float: left;
+		}
+		#ArjunBala-img{
+			max-width: 100;
+			height:auto;
+			margin-left: 4px;
+		}
+		#ArjunBala-text{
+			text-align: left;
+		}
+		#FirozSherasiya{
+			height:200;
+			width: 100;
+			float:left;
+		}
+		#FirozShersasiya-img{
+			height: 180;
+			width: 100;
+			margin-left: 5px;
+		}
+		#Right-Bottom{
+			width:100%;
+			height:180px;
+			font-size: 10px;
+			color: rgba(0, 0, 0, 0.8);
+		}
+		.Image-div{
+				height:200;
+				width: 100;
+				float: left;
+				margin-left: 10px;
+		}
+		.Image{
+			height: auto;max-width: 100;
+		}
+		#Harsh-img{
+			height: auto;
+			max-width: 100%;
+		}
+		#Shyam-img{
+			height: auto;
+			max-width: 100;
+		}
+		figcaption{
+			text-align: left;
+		}
